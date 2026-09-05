@@ -1,4 +1,4 @@
-# 🏦 Banking Financial Modeling - Case Study
+## 🏦 Banking Financial Modeling - Case Study
 
 ## 📌 Objective
 
