@@ -11,11 +11,11 @@ Excel-based banking and investment case study focused on **loan analysis, invest
 * Depreciation calculations
 * Portfolio risk analysis
 
-## 💡 Key Takeaway
+### 💡 Key Takeaway
 
 Applied Excel-based financial modeling to understand how **repayment decisions, investment returns and portfolio risk** affect financial outcomes.
 
-## 🛠️ Tools
+### 🛠️ Tools
 
 **Microsoft Excel | Financial Modeling | Investment Analysis**
 
