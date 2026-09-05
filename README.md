@@ -1,6 +1,6 @@
 ## 🏦 Banking Financial Modeling - Case Study
 
-## 📌 Objective
+### 📌 Objective
 
 Excel-based banking and investment case study focused on **loan analysis, investment returns, depreciation and portfolio risk**.
 
@@ -19,7 +19,7 @@ Applied Excel-based financial modeling to understand how **repayment decisions, 
 
 **Microsoft Excel | Financial Modeling | Investment Analysis**
 
-## 📂 Files
+### 📂 Files
 
 📊 **[Portfolio Risk - Case Study.xlsx](./Portfolio%20Risk%20-%20Case%20Study.xlsx)**
 📄 **[Banking - Case Study.pdf](./Banking%20-%20Case%20Study.pdf)**
